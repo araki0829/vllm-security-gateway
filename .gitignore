@@ -1,0 +1,8 @@
+requirements.md
+todo.md
+実装順.md
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
